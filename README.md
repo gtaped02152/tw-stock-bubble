@@ -1,4 +1,3 @@
-# tw-stock-bubble
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
